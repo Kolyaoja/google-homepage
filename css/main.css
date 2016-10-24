@@ -1,4 +1,8 @@
 #centre {
-	margin: auto;
+	margin: 0 auto;
+	width: 100%;
+}
 
+#centre img {
+	margin: 0 auto;
 }
